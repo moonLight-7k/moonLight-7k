@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm 1st year B.Tech CSE undergraduate <br>I'm currently learning C language<br>A web Developer
+I'm 1st year B.Tech CSE undergraduate, <br> currently learning C language<br>Web Developer
 
 
 ## 🌐 Socials:
