@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suhel Khan</h1>
-[![](https://visitcount.itsvg.in/api?id=moonlight-7k&icon=0&color=9)](https://visitcount.itsvg.in)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moonlight-7k&label=Profile%20views&color=0e75b6&style=flat" alt="moonlight-7k" /> </p>
+#[![](https://visitcount.itsvg.in/api?id=moonlight-7k&icon=0&color=9)](https://visitcount.itsvg.in)
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=moonlight-7k&label=Profile%20views&color=0e75b6&style=flat](https://visitcount.itsvg.in/api?id=moonlight-7k&icon=0&color=9)" alt="moonlight-7k" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moonlight-7k" alt="moonlight-7k" /></a> </p>
 
