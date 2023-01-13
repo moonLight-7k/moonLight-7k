@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suhel Khan</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=moonlight-7k&label=Profile%20views&color=0e75b6&style=flat" alt="moonlight-7k"  /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moonlight-7k" alt="moonlight-7k" /></a> </p> -->
 
 - 🔭 I’m currently a **B.Tech cse undergraduate**
 
@@ -10,7 +10,7 @@
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **suhelkhan87514@gmail.com** <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moonlight-7k&label=Profile%20views&color=0e75b6&style=flat" alt="moonlight-7k"  /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/moonlight-7k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moonlight-7k" height="30" width="40" /></a>
