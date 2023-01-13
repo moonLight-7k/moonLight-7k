@@ -29,7 +29,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=moonLight-7k&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=moonLight-7k&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> <p/>&nbsp; &nbsp; &nbsp; </p>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=moonLight-7k&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=moonLight-7k&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
@@ -37,7 +37,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=moonLight-7k&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![ d   ](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![    ](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=moonLight-7k&icon=0&color=0)](https://visitcount.itsvg.in)
