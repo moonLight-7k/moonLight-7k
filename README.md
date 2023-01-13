@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **suhelkhan87514@gmail.com**
+- 📫 How to reach me **suhelkhan87514@gmail.com** <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moonlight-7k&label=Profile%20views&color=0e75b6&style=flat" alt="moonlight-7k"  /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
