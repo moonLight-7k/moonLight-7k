@@ -46,5 +46,5 @@
 
 </p>
 
- ![Snake animation](https://github.com/moonLight-7k/eagrundy/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/moonLight-7k/moonLight-7k/blob/output/github-contribution-grid-snake.svg)
 
