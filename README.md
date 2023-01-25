@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moonlight-7k&label=Profile%20views&color=0e75b6&style=flat" alt="moonlight-7k"  /> </p>
 
 
-- 🔭 I’m currently a **B.Tech cse undergraduate**
+- 🔭 I’m currently a **B.Tech CSE undergraduate**
 
 - 🌱 I’m currently learning **C**
 
