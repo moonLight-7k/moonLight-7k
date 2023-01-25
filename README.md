@@ -45,9 +45,6 @@
 [![](https://visitcount.itsvg.in/api?id=moonLight-7k&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </p>
-<div>
-
 
   ![Snake animation](https://github.com/moonLight-7k/eagrundy/blob/output/github-contribution-grid-snake.svg)
 
-</div>
