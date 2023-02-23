@@ -45,19 +45,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" width="57" alt="linux logo"  />
 </div>
 
-
+<div align="center" display="flex">
 
 # 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=moonLight-7k&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api?username=moonLight-7k&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> <p/>&nbsp; &nbsp; &nbsp; </p>
-![](https://github-readme-streak-stats.herokuapp.com/?user=moonLight-7k&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=moonLight-7k&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 
-
+<div align="center">
+  
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=moonLight-7k&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![    ](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+</div>
 
+<br clear="both">
 
+<div align="center">
+  
+![ ](https://spotify-recently-played-readme.vercel.app/api?user=31feikwfsp4a4hbf4v6huz6envmm)
+  
+</div>
