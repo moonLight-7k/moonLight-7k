@@ -69,7 +69,7 @@
 
 ### 🎧Spotify
 
-![ ](https://spotify-recently-played-readme.vercel.app/api?user=31feikwfsp4a4hbf4v6huz6envmm&width=900)
+![ ](https://spotify-recently-played-readme.vercel.app/api?user=31feikwfsp4a4hbf4v6huz6envmm&width=700)
 </div>
 
 <div align="center">
