@@ -13,17 +13,35 @@
 - 📫 How to reach me **suhelkhan87514@gmail.com** <br>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/moonlight7k1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moonlight7k1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/moonlight-7k" target="blank"><img align="center" src=src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/></a>
-<a href="https://stackoverflow.com/users/20071334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20071334" height="30" width="40" /></a>
-<a href="https://instagram.com/knight_7k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="knight_7k" height="30" width="40" /></a>
-<a href="https://www.behance.net/suhelkhan40" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="suhelkhan40" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/moonlight7k1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="moonlight7k1" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/yinyingdark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yinyingdark" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/moonlight7k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="moonlight7k" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/user/suhel_khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/suhel_khan" height="30" width="40" /></a>
-</p>
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/moonlight-7k" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="58" height="45" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/moonLight7k1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="58" height="45" alt="twitter logo"  />
+  </a>
+  <a href="https://discord.com/channels/841990911151046697" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="58" height="45" alt="discord logo"  />
+  </a>
+  <a href="https://www.behance.net/suhelkhan40" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="58" height="45" alt="behance logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/yinyingdark" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="58" height="45" alt="hackerrank logo"  />
+  </a>
+  <a href="https://www.instagram.com/knight_7k" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="58" height="45" alt="instagram logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/20071334/suhel-khan" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="58" height="45" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://t.me/moonLight7k" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="58" height="45" alt="telegram logo"  />
+  </a>
+</div>
+
 
 <h2 align="center">Languages and Tools:</h2>
 <div align="center">
