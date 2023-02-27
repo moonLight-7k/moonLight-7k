@@ -36,6 +36,12 @@
   </a>
   <a href="https://stackoverflow.com/users/20071334/suhel-khan" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="58" height="45" alt="stackoverflow logo"  />
+  
+  <a href="https://codepen.io/moonLight-7k" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" height="45" width="60" alt="codepen logo"/>
+</a>
+
+
   </a>
   <a href="https://t.me/moonLight7k" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="58" height="45" alt="telegram logo"  />
@@ -56,6 +62,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" width="57" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" width="57" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="45" width="57" alt="amazonwebservices logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" height="45" width="60" alt="codepen logo"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="45" width="57" alt="googlecloud logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="45" width="57" alt="digitalocean logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45" width="57" alt="bash logo"  />
