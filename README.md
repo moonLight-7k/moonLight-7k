@@ -100,6 +100,6 @@
 
 <div align="center">
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![    ](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&width=600)
 </div>
