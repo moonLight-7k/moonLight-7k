@@ -85,7 +85,7 @@
 
 <div align="center">
   
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=moonLight-7k&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 </div>
 
@@ -93,7 +93,7 @@
 
 <div align="center">
 
-### 🎧Spotify
+# 🎧Spotify
 
 ![ ](https://spotify-recently-played-readme.vercel.app/api?user=31feikwfsp4a4hbf4v6huz6envmm&width=700)
 </div>
