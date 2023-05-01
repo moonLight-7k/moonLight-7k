@@ -6,7 +6,7 @@
 
 - 🔭 I’m a **B.Tech CSE undergraduate**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **JAVA**
 
 - 💬 Ask me about **Web Development**
 
