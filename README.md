@@ -90,13 +90,6 @@
 
 <div align="center">
 
-# 🎧Spotify
-
-![ ](https://spotify-recently-played-readme.vercel.app/api?user=31feikwfsp4a4hbf4v6huz6envmm&width=700)
-</div>
-
-<div align="center">
-
 # ✍️ Random Dev Quote
 ![    ](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&width=600)
 </div>
