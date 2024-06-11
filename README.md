@@ -4,13 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=moonlight-7k&label=Profile%20views&color=0e75b6&style=flat" alt="moonlight-7k"  /> </p>
 
 
-- 🔭 I’m a **B.Tech CSE undergraduate**
-
-- 🌱 I’m currently learning **DSA in JAVA**
-
-- 💬 Ask me about **Web Development**
-
-- 📫 How to reach me **suhelkhan87514@gmail.com** <br>
+ 📫 Reach me at  **suhelkhan87514@gmail.com** <br>
 
 # <h3 align="center">Connect with me:</h3>
 <br clear="both">
