@@ -6,7 +6,7 @@
 
  📫 Reach me at  **suhelkhan87514@gmail.com** <br>
 
-# <h3 align="center">Connect with me:</h3>
+# <h3 align="center">Socila</h3>
 <br clear="both">
 
 <div align="center">
@@ -44,7 +44,7 @@
 </div>
 
 
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="center">Languages and Tools</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" width="57" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" width="57" alt="css3 logo"  />
@@ -65,7 +65,7 @@
 
 <div align="center" display="flex">
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=moonLight-7k&theme=dark&hide_border=false)<br/>
   
 ![](https://github-readme-stats.vercel.app/api?username=moonLight-7k&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
