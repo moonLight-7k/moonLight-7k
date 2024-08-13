@@ -6,7 +6,7 @@
 
  📫 Reach me at  **suhelkhan87514@gmail.com** <br>
 
-# <h3 align="center">Socila</h3>
+# <h3 align="center">Social</h3>
 <br clear="both">
 
 <div align="center">
